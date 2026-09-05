@@ -20,6 +20,7 @@ TDD como ADN, documentación con evidencia.
   - `engineering-standard` — filosofía de ingeniería: YAGNI, ADRs, auditorías, código limpio
   - `work-strategy` — flujo obligatorio por tarea: analizar, diseñar, implementar, verificar, documentar
   - `toolbox` — inventario vivo de herramientas aprendidas (por qué se usan y cómo instalarlas)
+- `toolbox/` — el inventario inicial: herramientas, repos y lecciones aprendidas hasta hoy (rtk incluido)
 - `install.sh` — detecta tu herramienta y despliega Elias en segundos
 
 ## Instalación
