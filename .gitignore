@@ -1,0 +1,4 @@
+# Secretos (auditoria de seguridad)
+.env
+.env.*
+!.env.example
